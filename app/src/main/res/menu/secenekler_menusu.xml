@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fofo_paylas"
+        android:icon="@drawable/camera"
+        android:textSize="15dp"
+        android:title="Share Photo" />
+    <item
+        android:id="@+id/cıkıs_yap"
+        android:textSize="15dp"
+
+        android:icon="@drawable/exit"
+        android:title="Exit" />
+</menu>

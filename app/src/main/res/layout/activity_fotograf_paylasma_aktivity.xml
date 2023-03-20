@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/constrainbg"
+    tools:context=".view.fotograf_paylasma_aktivity">
+
+    <Button
+        android:id="@+id/Paylas_button"
+        android:layout_width="131dp"
+        android:layout_height="44dp"
+        android:layout_marginBottom="193dp"
+        android:background="@drawable/buttonbackground"
+        android:text="Share"
+
+        android:textColor="@color/endColor"
+        app:backgroundTint="#000000"
+        app:backgroundTintMode="screen"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/yorum_edit_text"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <EditText
+        android:id="@+id/yorum_edit_text"
+        android:layout_width="284dp"
+        android:layout_height="54dp"
+
+        android:layout_marginBottom="80dp"
+        android:autofillHints=""
+        android:background="@drawable/edittextbackground"
+        android:ems="10"
+        android:hint="Add a comment"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/Paylas_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/foto_sec_image_view" />
+
+    <ImageView
+        android:id="@+id/foto_sec_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="96dp"
+        android:layout_marginBottom="83dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toTopOf="@+id/yorum_edit_text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/chose_image"
+        tools:srcCompat="@drawable/chose_image" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

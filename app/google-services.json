@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890565518099",
+    "firebase_url": "https://foto-paylasma-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "foto-paylasma",
+    "storage_bucket": "foto-paylasma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890565518099:android:9f5e45e9499e7e255030e6",
+        "android_client_info": {
+          "package_name": "com.ammo.fire_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890565518099-a21s183rt68hkvtg65c27ngadh8u0j87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxuo1ES4NxgJKxwKVs80CRtDcZH95VOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890565518099-a21s183rt68hkvtg65c27ngadh8u0j87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
