@@ -3,7 +3,7 @@ firebase kullanarak yapmış olduğum fotoğraf paylaşma uygulaması
 
 
 giriş ekranı 
-![11](https://user-images.githubusercontent.com/72464509/226415072-9d1ced1c-dc4d-4747-aaff-7fbb0fe5edb6.png)
+[11](https://user-images.githubusercontent.com/72464509/226415072-9d1ced1c-dc4d-4747-aaff-7fbb0fe5edb6.png)
 
 şifre yenileme ekranı
 ![22](https://user-images.githubusercontent.com/72464509/226415076-19e05e2c-7a32-4c32-b164-9798103eae46.png)
