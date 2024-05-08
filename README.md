@@ -13,4 +13,4 @@ firebase kullanarak yapmış olduğum fotoğraf paylaşma uygulaması
 
 [Akis ekranı](https://user-images.githubusercontent.com/72464509/226419749-5777a3c0-e24b-4924-9705-95e605b04e59.jpeg)
 
-![cikis islemi](https://github.com/mobillium-android/ahmet-selalmaz2/assets/72464509/946a9d34-0e24-4401-a2d4-576fbfea4595)
+[cikis islemi](https://github.com/mobillium-android/ahmet-selalmaz2/assets/72464509/946a9d34-0e24-4401-a2d4-576fbfea4595)
